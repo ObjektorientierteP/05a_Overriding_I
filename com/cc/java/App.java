@@ -8,7 +8,7 @@ public class App {
         output(child.sayHello());
 
         // Wenn nicht in child gefunden, wird eine Stufe Höher und dort sucht (Parent)
-        output(child.sayHello("Hi from "));
+        // output(child.sayHello("Hi from "));
  
 
     }
